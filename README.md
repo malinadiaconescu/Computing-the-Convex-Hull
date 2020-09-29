@@ -12,8 +12,8 @@ coordinates and an int variable for its index in the list. My program works the
 following way:
 - it reads the points from a file
 - it calls the function graham
-- graham first calls a function stangajos() that searches the rst element,
-the one that is the lowest in the coordinates and should be the rst point
+- graham first calls a function stangajos() that searches the first element,
+the one that is the lowest in the coordinates and should be the first point
 in the list; it puts it in the vector stack so the stack will not be empty;
 Also, it orders the rest of the points and puts the second one as well in
 the vector stack
